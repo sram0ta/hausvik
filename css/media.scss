@@ -1,0 +1,1599 @@
+@media only all and (min-width: 1600px) {
+    .wrapper {
+        zoom: 110% !important;
+    }
+    .wrapper__project {
+        zoom: 70% !important;
+    }
+}
+
+@media only screen and (max-width: 1185px) {
+    .container__info-card {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+    .info-card__right {
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+        margin-bottom: 30px;
+    }
+    .info-card__right_lower {
+        position: relative;
+        margin-top: 0 !important;
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: reverse !important;
+        -ms-flex-direction: row-reverse !important;
+        flex-direction: row-reverse !important;
+        -webkit-box-align: end;
+        -ms-flex-align: end;
+        align-items: end;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+        padding: 32px 32px 33px 28px !important;
+    }
+    .info-card__right_upper {
+        margin-left: 0 !important;
+        padding: 111px 230px 26px 39px !important;
+    }
+}
+
+@media only screen and (max-width: 1124px) {
+    .go-excursion__left {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .go-excursion__left__low {
+        & form {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-box-align: baseline !important;
+            -ms-flex-align: baseline !important;
+            align-items: baseline !important;
+        }
+    }
+    .input {
+        margin: 15px 0;
+        width: 341px !important;
+    }
+    .input_last {
+        margin: 0 0 15px 0 !important;
+    }
+    .go-excursion__right {
+        top: 90px !important;
+    }
+}
+
+@media only screen and (max-width: 1095px) {
+    .program__lower__container__1 {
+        margin-right: 162px !important;
+    }
+    .program__lower__container__2 {
+        margin-right: 158px !important;
+    }
+    .program__lower__container__3 {
+        margin-right: 175px !important;
+    }
+    .cb__img-hand {
+        & img {
+            width: 625px;
+            height: auto;
+        }
+    }
+}
+
+@media only screen and (max-width: 1034px) {
+    .container__project-card {
+        -ms-grid-columns: 1fr 1fr !important;
+        grid-template-columns: 1fr 1fr !important;
+        justify-items: center;
+    }
+    .container__any-projects {
+        -ms-grid-columns: 1fr 1fr !important;
+        grid-template-columns: 1fr 1fr !important;
+        justify-items: center;
+    }
+    .project-house__sides_right {
+        margin-left: 70px !important;
+    }
+    .project-house__sides_left {
+        max-width: 770px !important;
+        & a:first-child {
+            & img {
+                width: 100%;
+            }
+        }
+    }
+    .link__img-lower {
+        top: 20px !important;
+        & img {
+            width: 17%;
+        }
+    }
+    .link__img-lower-2 {
+        left: 20px !important;
+    }
+    .link__img-lower-3 {
+        left: 42px !important;
+    }
+    .link__img-lower-4 {
+        left: 70px !important;
+    }
+    .link__img-lower-5 {
+        left: 95px !important;
+    }
+    .wrapper {
+        zoom: 100% !important;
+    }
+    .mortgage_sides__right__text-2 {
+        top: 44px !important;
+        font-size: 228px !important;
+    }
+    .mortgage_sides__right__text-1 {
+        top: 27px !important;
+        left: 3px !important;
+        font-size: 50px !important;
+    }
+    .mortgage_sides__right__text__img {
+        bottom: -37px !important;
+        left: 155px !important;
+        & img {
+            width: 280px;
+            height: auto;
+        }
+    }
+    .faild__right {
+        & img {
+            width: 700px;
+            height: auto;
+        }
+    }
+    .faild__right {
+        top: -26px !important;
+        right: -80px !important;
+    }
+}
+
+@media only screen and (max-width: 885px) {
+    .info-card__left__upper__left__upper {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .wrapper__info-card__left__upper__left__upper {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .info-card__left__upper__left__upper__right {
+        margin: 30px 0 30px 0px !important;
+    }
+    .container__info-cards__left__lower_right {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .info-cards__left__lower_right {
+        margin: 0 0 30px 0px !important;
+        padding: 77px 73px 5px 43px !important;
+    }
+    .info-card__left__upper__left__lower {
+        margin-left: 30px;
+        width: 100%;
+    }
+    .info-card__left__upper__left__lower__text-right {
+        display: none;
+    }
+    .info-cards__left__lower_left {
+        padding: 113px 35px 33px 40px !important;
+    }
+    .info-card__right_lower__98 {
+        font-size: 90px !important;
+    }
+    .info-card__left__upper__left__upper__left__right-text {
+        font-size: 90px !important;
+    }
+    .info-card__left__upper__left__lower {
+        max-width: 262px !important;
+        padding: 161px 36px 21px 40px !important;
+    }
+    .container__info-card__left__upper__left__upper__left {
+        padding: 100px 20px 30px 40px !important;
+    }
+    .container__info-card__pc {
+        display: none !important;
+    }
+    .container__info-card__mobile {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+    }
+    .info-card__right_upper {
+        padding: 111px 71px 26px 39px !important;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+    .header__nav ul li {
+        margin: 0 40px !important;
+    }
+    .header__nav ul li:first-child {
+        margin: 0 40px 0 0 !important;
+    }
+    .header__nav ul li:last-child {
+        margin: 0 0 0 40px !important;
+    }
+    .header__nav {
+        margin-left: 80px !important;
+    }
+}
+
+@media only screen and (max-width: 975px) {
+    .program__lower {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: baseline !important;
+        -ms-flex-align: baseline !important;
+        align-items: baseline !important;
+    }
+    .warpper__program {
+        padding: 210px 0 140px 0 !important;
+    }
+    .cb__img-hand {
+        top: -345px;
+        margin-top: 0 !important;
+    }
+    .cb__img-hand img {
+        width: 525px;
+    }
+    .container__program__lower:last-child {
+        margin-top: 18px;
+    }
+}
+
+@media only screen and (max-width: 778px) {
+    .container__project-card {
+        -ms-grid-columns: 1fr !important;
+        grid-template-columns: 1fr !important;
+    }
+    .question-main__text {
+        font-size: 15px !important;
+    }
+    .question-hidden {
+        padding: 60px 23px 20px 23px !important;
+        font-size: 13px !important;
+    }
+    .how-it-work__pc {
+        display: none !important;
+    }
+    .how-it-work__mob {
+        display: block !important;
+    }
+    .go-excursion {
+        margin-top: 70px !important;
+    }
+    .how-it-work__text {
+        margin-bottom: 50px !important;
+    }
+    .project-house__sides {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .project-house__sides_right {
+        margin-left: 0px !important;
+        margin-top: 80px;
+    }
+    .project-house__sides_right__info-low {
+        display: none;
+    }
+    .project-house__sides_right__btn-low {
+        display: none;
+    }
+    .project-house__sides_right__price__low {
+        display: none;
+    }
+    .h2__info__pc {
+        display: none;
+    }
+    .h2__info__mob {
+        display: block !important;
+    }
+    .base__sides {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .sides__base {
+        margin-left: 0 !important;
+        margin-top: 60px;
+        max-width: 100% !important;
+    }
+    .wrapper__tab {
+        max-width: 100% !important;
+    }
+    .container__dop-opt {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .dop-opt__right {
+        margin-left: 0 !important;
+    }
+    .project-card {
+        & img {
+            width: 410px;
+            height: auto;
+        }
+    }
+    .sides__radio {
+        width: auto !important;
+        max-width: 100% !important;
+    }
+    .container__mob-price {
+        display: block !important;
+    }
+    .header__nav {
+        display: none;
+    }
+    .nav_bar {
+        display: block !important;
+    }
+    .mortgage {
+        padding: 300px 80px 28px 95px !important;
+    }
+    .container__mortgage_sides {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+    .mortgage_sides__right__text-2 {
+        top: -250px !important;
+    }
+    .mortgage_sides__right__text-1 {
+        top: -230px !important;
+        left: -15px !important;
+    }
+    .mortgage_sides__right__text__img img {
+        width: 245px !important;
+    }
+    .mortgage_sides__right__text__img {
+        bottom: -90px !important;
+        left: 240px !important;
+    }
+    .tab:last-child {
+        margin: 0 !important;
+    }
+    .dop-opt {
+        margin-top: 40px !important;
+    }
+    .h2__base__mob {
+        width: 100%;
+        max-width: 350px;
+    }
+    .any-projects {
+        margin-top: 60px !important;
+    }
+    .faild {
+        margin-top: 540px !important;
+        margin-bottom: 120px !important;
+    }
+    .faild__right {
+        top: -460px !important;
+        right: 0 !important;
+        left: 0;
+    }
+    .h2__base_b {
+        font-size: 36px !important;
+    }
+    .wrapper__input {
+        margin-top: 22px !important;
+        grid-template-columns: 1fr !important;
+        grid-template-rows: 1fr 1fr 1fr 1fr !important;
+        grid-column-gap: 0 !important;
+        grid-row-gap: 8px !important;
+    }
+    .input__margage {
+        padding: 17px 2px 17px 16px !important;
+        border: 1px solid #C4C4C4 !important;
+        font-size: 10px !important;
+    }
+}
+
+@media only screen and (max-width: 615px) {
+    .info-card__right_lower {
+        -webkit-box-orient: vertical !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: column !important;
+        flex-direction: column !important;
+        -webkit-box-align: start !important;
+        -ms-flex-align: start !important;
+        align-items: flex-start !important;
+    }
+    .container__info-card__left__upper__left__upper__left {
+        -webkit-box-orient: vertical !important;
+        -webkit-box-direction: reverse !important;
+        -ms-flex-direction: column-reverse !important;
+        flex-direction: column-reverse !important;
+        -webkit-box-align: start !important;
+        -ms-flex-align: start !important;
+        align-items: flex-start !important;
+        padding: 30px 20px 30px 40px !important;
+    }
+    .info-card__left__upper__left__upper__left__right-text {
+        bottom: 0px !important;
+    }
+    .info-card__left__upper__left__upper__right {
+        padding: 141px 27px 26px 40px !important;
+    }
+    .info-cards__left__lower_right {
+        padding: 55px 73px 5px 43px !important;
+    }
+    .info-cards__left__lower_left {
+        padding: 43px 35px 33px 40px !important;
+    }
+    .info-card__left__upper__left__lower {
+        padding: 116px 36px 21px 40px !important;
+    }
+    .info-card__right_upper {
+        padding: 133px 49px 26px 39px !important;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 590px) {
+    .program__lower__container__1 {
+        margin-right: 0px !important;
+    }
+    .program__lower__container__2 {
+        margin-right: 0px !important;
+    }
+    .program__lower__container__3 {
+        margin-right: 0px !important;
+    }
+    .program__lower__container__4 {
+        margin-right: 0px !important;
+    }
+    .program__lower {
+        margin-top: 9px !important;
+    }
+    .container__program__lower {
+        width: 100%;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width: 505px) {
+    .info-card__right_upper {
+        font-size: 16px !important;
+        padding: 133px 35px 26px 32px !important;
+        width: 100%;
+    }
+    .info-card__right_lower__98good {
+        font-size: 16px !important;
+    }
+    .info-card__right_lower__text {
+        font-size: 16px !important;
+    }
+    .info-card__right_lower__98 {
+        font-size: 75px !important;
+    }
+    .info-card__left__upper__left__upper__left__right-text {
+        font-size: 75px !important;
+    }
+    .info-card__left__upper__left__upper__left__left-text {
+        font-size: 16px !important;
+    }
+    .info-card__left__upper__right__text-upper {
+        font-size: 16px !important;
+    }
+    .info-card__left__upper__right__text-lower {
+        font-size: 16px !important;
+    }
+    .info-card__left__upper__left__upper__right {
+        font-size: 16px !important;
+    }
+    .info-cards__left__lower_right__text-upper {
+        font-size: 16px !important;
+    }
+    .info-cards__left__lower_right__text-lower {
+        font-size: 16px !important;
+    }
+    .info-cards__left__lower_left__text-upper {
+        font-size: 16px !important;
+    }
+    .info-cards__left__lower_left__text-lower {
+        font-size: 16px !important;
+    }
+    .info-card__left__upper__left__lower__text-left {
+        font-size: 16px !important;
+    }
+    .info-card__left__upper__right {
+        & img {
+            width: 240px;
+            height: auto;
+        }
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .h2__real {
+        font-size: 37px !important;
+    }
+    .cb__img-hand img {
+        width: 374px;
+    }
+    .warpper__program {
+        padding: 150px 0 110px 0 !important;
+    }
+    .cb__img-hand {
+        top: -250px;
+    }
+}
+
+@media only screen and (max-width: 778px) {
+    .info-card__left__upper__left {
+        width: 100%;
+    }
+    .wrapper__wrapper__info-card__left__upper__left__upper {
+        width: 100%;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .go-excursion__left__name {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .go-excursion__left__name_r {
+        margin-left: 0 !important;
+        margin-top: 25px;
+    }
+    .h2__excursion {
+        font-size: 24px !important;
+        width: 100%;
+        max-width: 180px;
+    }
+    .h2__excursion_s {
+        font-size: 14px !important;
+    }
+    .go-excursion__left__name_l {
+        max-width: 290px !important;
+    }
+    .go-excursion__right {
+        top: -100px !important;
+    }
+    .input {
+        width: 95% !important;
+        font-size: 12px !important;
+        padding: 24px 0 24px 21px !important;
+        margin: 6px 0 !important;
+    }
+    .btn {
+        padding: 20px 97px !important;
+        font-size: 16px !important;
+    }
+    .btn__nv {
+        width: 100%;
+    }
+    .go-excursion__left__low {
+        margin-top: 10px !important;
+    }
+    .btn__nv_mob {
+        margin-top: 6px;
+    }
+    .go-excursion__right picture img {
+        width: 189px !important;
+    }
+    .go-excursion__right {
+        top: -70px !important;
+    }
+    .plots__img__rellax {
+        display: none !important;
+    }
+    .plots {
+        margin-top: 67px !important;
+        padding: 160px 0 19px 0 !important;
+    }
+    .plots__img {
+        display: block !important;
+        top: -280px !important;
+        left: 70px;
+        & img {
+            width: 296px;
+            height: auto;
+        }
+    }
+    .container__plots-card {
+        margin-top: 28px !important;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        align-items: inherit !important;
+    }
+    .wrapper__plots-card_l {
+        display: -ms-grid;
+        display: grid;
+        -ms-grid-columns: 1fr 15px 1fr;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 15px;
+        grid-row-gap: 15px;
+    }
+    .plots-card__name {
+        margin-top: 0 !important;
+        margin-left: 12px !important;
+        font-size: 12px !important;
+    }
+    .plots-card {
+        padding: 16px 14px 12px 10px !important;
+        -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+        align-items: center !important;
+        & img {
+            width: 30px;
+            height: auto;
+        }
+    }
+    .plots-card__low {
+        margin-top: 0 !important;
+    }
+    .cm__spec {
+        display: block !important;
+    }
+    .plots-card__low {
+        padding: 15px 19px 13px 22px !important;
+    }
+    .wrapper__plots-card_r {
+        margin-top: 14px;
+        margin-left: 0 !important;
+    }
+    .plots-card__low__r {
+        margin-top: 14px !important;
+    }
+    .plots-card__low_rr {
+        display: none !important;
+        & img {
+            width: 15px;
+            height: auto;
+        }
+    }
+    .plots-card__low__r {
+        display: none !important;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        & img {
+            width: 15px;
+            height: auto;
+        }
+    }
+    .plots-card__mobile {
+        display: -webkit-box !important;
+        display: -ms-flexbox !important;
+        display: flex !important;
+        padding: 13px 14px !important;
+    }
+    .container__questions {
+        margin-top: 10px !important;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .questions__right {
+        margin-left: 0px !important;
+    }
+    .question-5 {
+        margin-top: 0 !important;
+    }
+    .questions {
+        margin-top: 40px !important;
+        margin-bottom: 0px !important;
+    }
+    .link__phone__footer {
+        display: none !important;
+    }
+    .footer__upper {
+        & .footer__logo {
+            & img {
+                width: 125px;
+                height: auto;
+            }
+        }
+    }
+    .container__social-ico {
+        margin-bottom: 0 !important;
+    }
+    .footer__lower {
+        margin-top: 35px !important;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: baseline !important;
+        -ms-flex-align: baseline !important;
+        align-items: baseline !important;
+    }
+    .footer__lower__left {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .footer__ul:last-child {
+        margin-left: 0 !important;
+    }
+    .link__footer {
+        font-size: 12px !important;
+    }
+    .footer__lower__right {
+        margin-top: 70px;
+    }
+    .footer {
+        padding: 25px 0 60px 0 !important;
+    }
+    .container__social-ico {
+        & a:first-child {
+            & img {
+                display: block !important;
+            }
+        }
+        & a {
+            & img {
+                width: 21px;
+                height: auto;
+            }
+        }
+    }
+    .link__phone__footer {
+        display: none;
+    }
+    .container__social-ico img {
+        margin: 0 7px !important;
+    }
+    .footer__lower__right {
+        & img {
+            width: 35px;
+            height: auto;
+        }
+    }
+    .text__marten {
+        font-size: 9px !important;
+        margin-left: 9px !important;
+        line-height: 12px !important;
+    }
+    .how-it-work__text {
+        margin-bottom: 20px !important;
+    }
+    .go-excursion {
+        margin-top: 25px !important;
+    }
+    .link__img-lower {
+        top: 11px !important;
+    }
+    .link__img-lower-2 {
+        left: 9px !important;
+    }
+    .link__img-lower-3 {
+        left: 20px !important;
+    }
+    .link__img-lower-4 {
+        left: 32px !important;
+    }
+    .link__img-lower-5 {
+        left: 43px !important;
+    }
+    .btn__nv__mob-price {
+        width: 70% !important;
+    }
+    .btn__tr {
+        width: 100%;
+    }
+    .project-house__pagination {
+        display: none;
+    }
+    .project-house {
+        margin-top: 85px !important;
+    }
+    .h2__base {
+        font-size: 16px !important;
+    }
+    .tab-main__text {
+        font-size: 13px !important;
+    }
+    .tab-main__img {
+        zoom: 60%;
+    }
+    .tab-hidden {
+        font-size: 13px !important;
+        padding: 45px 23px 20px 23px !important;
+        line-height: 22px !important;
+    }
+    .dop-opt {
+        margin-top: 25px !important;
+    }
+    .any-projects {
+        margin-top: 35px !important;
+    }
+    .container__any-projects {
+        margin-top: 35px !important;
+        grid-row-gap: 20px !important;
+        -ms-grid-columns: 1fr !important;
+        grid-template-columns: 1fr !important;
+    }
+    .header_sides__left__header {
+        & a {
+            & img {
+                width: 95px;
+                height: auto;
+            }
+        }
+    }
+    .link__phone {
+        font-size: 18px !important;
+    }
+    .header {
+        height: 26px !important;
+        padding: 19px 0 23px 0 !important;
+    }
+    .h2__project-house {
+        font-size: 28px !important;
+        width: 100%;
+        max-width: 280px;
+    }
+    .project-house__sides {
+        margin-top: 20px !important;
+    }
+    .base {
+        margin-top: 50px !important;
+    }
+    .go-excursion__project-house {
+        margin-top: 60px !important;
+    }
+    .mob-price {
+        font-size: 32px !important;
+        margin-top: 7px !important;
+    }
+    .h2__mob-price {
+        font-size: 16px !important;
+    }
+    .info-cards__left__lower_right {
+        margin: 0 0 15px 0px !important;
+    }
+    .info-card__right_lower__98good {
+        font-size: 12px !important;
+    }
+    .info-card__right_lower__text {
+        font-size: 12px !important;
+    }
+    .info-card__right_lower__98 {
+        font-size: 55px !important;
+    }
+    .info-card__left__upper__left__upper__left__right-text {
+        font-size: 55px !important;
+    }
+    .info-card__left__upper__left__upper__left__left-text {
+        font-size: 12px !important;
+    }
+    .info-card__left__upper__right__text-upper {
+        font-size: 12px !important;
+    }
+    .info-card__left__upper__right__text-lower {
+        margin-top: 10px !important;
+        font-size: 12px !important;
+    }
+    .info-card__left__upper__left__upper__right {
+        font-size: 12px !important;
+        padding: 79px 14px 13px 13px !important;
+        margin: 15px 0 0 0px !important;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -webkit-box-align: end !important;
+        -ms-flex-align: end !important;
+        align-items: flex-end !important;
+    }
+    .info-cards__left__lower_right__text-upper {
+        font-size: 12px !important;
+    }
+    .info-cards__left__lower_right__text-lower {
+        font-size: 12px !important;
+        margin-top: 6px;
+    }
+    .info-cards__left__lower_left__text-upper {
+        font-size: 12px !important;
+    }
+    .info-cards__left__lower_left__text-lower {
+        font-size: 12px !important;
+    }
+    .info-card__left__upper__left__lower__text-left {
+        font-size: 12px !important;
+    }
+    .info-card__left__upper__right {
+        margin: 0 0 0 15px !important;
+        padding: 161px 12px 16px 13px !important;
+        width: 100%;
+        & img {
+            width: 140px;
+        }
+    }
+    .info-card__right_lower {
+        width: 100%;
+        padding: 0px 14px 16px 13px !important;
+        margin-left: 15px !important;
+    }
+    .info-card__right_upper {
+        padding: 96px 0px 16px 13px !important;
+        font-size: 12px !important;
+    }
+    .container__info-card__left__upper__left__upper__left {
+        padding: 13px 18px 13px 19px !important;
+    }
+    .info-card__right {
+        margin-bottom: 15px !important;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .wrapper__info-card__left__upper__left__upper {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .info-cards__left__lower_right {
+        padding: 12px 15px 5px 13px !important;
+    }
+    .container__info-cards__left__lower_right img {
+        width: 112px;
+        height: auto;
+        margin-left: 0 !important;
+    }
+    .info-cards__left__lower_left {
+        padding: 20px 19px 16px 13px !important;
+        width: 100%;
+    }
+    .info-card__left__upper__left__lower {
+        padding: 45px 23px 21px 13px !important;
+        margin-left: 15px !important;
+        width: 100%;
+    }
+    .cards {
+        margin-top: 15px !important;
+    }
+    .h2__real {
+        font-size: 22px !important;
+    }
+    .projects {
+        margin-top: 47px !important;
+    }
+    .container__project-card {
+        margin-top: 31px !important;
+    }
+    .plots-card__low__email {
+        & img {
+            width: 22px !important;
+            height: auto;
+        }
+    }
+    .h2__plots {
+        font-size: 22px !important;
+    }
+    .section__real {
+        margin-top: 50px !important;
+    }
+    .container__real_card {
+        margin-top: 26px !important;
+    }
+    .how-it-work {
+        margin-top: 40px !important;
+    }
+    .container__social-ico {
+        & a:first-child {
+            margin-top: -4px;
+        }
+    }
+    .project-card {
+        width: 100%;
+        padding: 0 0 20px 0 !important;
+        & img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    .wrapper__project-card {
+        padding: 15px 24px 0 24px !important;
+    }
+    .project-card__name_l {
+        font-size: 15px !important;
+    }
+    .project-card__price {
+        margin-top: 15px !important;
+        font-size: 16px !important;
+    }
+    .container__project-card {
+        grid-row-gap: 20px !important;
+    }
+    .project-card__name_r {
+        font-size: 15px !important;
+    }
+    .mortgage {
+        margin-top: 85px !important;
+        padding: 200px 45px 28px 45px !important;
+    }
+    .mortgage_text__upper {
+        font-size: 65.5111px !important;
+    }
+    .mortgage_text__lower {
+        margin-top: 9px !important;
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    .mortgage_sides__right__text-2 {
+        font-size: 145px !important;
+    }
+    .mortgage_sides__right__text-2 {
+        top: -160px !important;
+    }
+    .mortgage_sides__right__text-1 {
+        top: -155px !important;
+        font-size: 35px !important;
+    }
+    .mortgage_sides__right__text__img img {
+        width: 150px !important;
+    }
+    .mortgage_sides__right__text__img {
+        bottom: -45px !important;
+        left: 157px !important;
+    }
+    .mortgage__btn {
+        margin-top: 20px !important;
+    }
+    .btn__popup__active {
+        width: auto !important;
+        padding: 20px 74px !important;
+    }
+    .cm {
+        padding: 0 10px !important;
+    }
+    .cb {
+        padding: 0 10px !important;
+    }
+    .cm__spec {
+        padding: 0 10px !important;
+    }
+    .cm__project-house {
+        padding: 0 10px !important;
+    }
+    .project-house__sides_right__price {
+        font-size: 40px !important;
+    }
+    .project-house__sides_right__price-low {
+        font-size: 20px !important;
+    }
+    .h2__project-house {
+        font-size: 22px !important;
+    }
+    .project-house__sides_right {
+        margin-top: 35px !important;
+    }
+    .h2__base {
+        font-size: 17px !important;
+    }
+    .radio__name {
+        font-size: 13px !important;
+        margin-bottom: 10px !important;
+    }
+    [type=radio]:checked+label,
+    [type=radio]:not(:checked)+label {
+        font-size: 14px !important;
+        padding-left: 20px !important;
+    }
+    [type=radio]:checked+label:before,
+    [type=radio]:not(:checked)+label:before {
+        width: 15px !important;
+        height: 15px !important;
+        border: 1px solid #32b7eb !important;
+    }
+    [type=radio]:checked+label:after,
+    [type=radio]:not(:checked)+label:after {
+        width: 9px !important;
+        height: 9px !important;
+        top: 3px !important;
+        left: 3px !important;
+    }
+    .label__left {
+        font-size: 14px !important;
+    }
+    .containder__radio-btn {
+        margin-bottom: 16px !important;
+    }
+    .checkbox__input {
+        font-size: 14px !important;
+    }
+    .custom-checkbox+label::before {
+        width: 15px !important;
+        height: 15px !important;
+        border: 1px solid #32b7eb !important;
+    }
+    .btn__nv__mob-price {
+        padding: 20px 40px !important;
+    }
+    .wrapper__go-excursion {
+        padding: 35px 0 25px 0 !important;
+    }
+    .sides__base {
+        margin-top: 40px !important;
+    }
+    .container__dop-opt {
+        margin-top: 23px !important;
+    }
+    .conainer__tabs {
+        margin-top: 23px !important;
+    }
+    .container__radio {
+        margin-top: 23px !important;
+    }
+    .h2__info {
+        font-size: 15px !important;
+    }
+    .warpper__program {
+        margin-top: 100px !important;
+    }
+    .real_card {
+        max-width: 405px !important;
+        padding: 21px 19px 21px 23px !important;
+    }
+    .real_card__img {
+        & img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    .real_card__name {
+        margin-bottom: 3px !important;
+        font-size: 13px !important;
+    }
+    .container__real_card__names {
+        margin-top: 18px !important;
+    }
+    .real_card__name__discription {
+        margin-bottom: 15px !important;
+        font-size: 13px !important;
+    }
+    .real_card__price {
+        font-size: 16px !important;
+    }
+    .hover__name {
+        font-size: 13px !important;
+    }
+    .hover__discrtiption {
+        font-size: 13px !important;
+        margin: 6px 0 23px 0 !important;
+    }
+    .hover__price {
+        margin-top: 6px !important;
+        margin-bottom: 25px !important;
+        font-size: 16px !important;
+    }
+    .hover__name__ul {
+        margin-bottom: 10px !important;
+    }
+    .real-card__li {
+        font-size: 13px !important;
+    }
+    .real-card__hover {
+        padding-bottom: 66px !important;
+    }
+    .real_card__img__m {
+        padding: 5px 9px 3px 11px !important;
+        font-size: 15px !important;
+    }
+    .content__mortgage-application {
+        max-width: 425px !important;
+        padding: 24px 31px 22px 31px !important;
+    }
+    .input__popup_last {
+        margin-bottom: 15px !important;
+    }
+    .popup__description {
+        margin-top: 5px !important;
+        font-size: 10.5px !important;
+        line-height: 15px !important;
+    }
+    .textaria__popup {
+        height: 40px !important;
+    }
+    .popup__name {
+        font-size: 25px !important;
+    }
+    .popup__policy-privacy {
+        margin-left: 15px !important;
+        font-size: 10.5px !important;
+        line-height: 15px !important;
+    }
+    .btn__popup {
+        margin-top: 10px !important;
+        padding: 13px 64px !important;
+    }
+    .container__popup__close {
+        zoom: 70%;
+        top: -95px !important;
+        right: 45% !important;
+    }
+    .popup__form {
+        margin-top: 14px !important;
+    }
+    .h2__404 {
+        font-size: 20px !important;
+    }
+    .h2__faild__l {
+        font-size: 12px !important;
+    }
+    .faild__left_text__lower {
+        margin-top: 16px !important;
+    }
+    .faild__btn {
+        margin-top: 40px !important;
+    }
+    .faild__right {
+        top: -270px !important;
+        left: -20px !important;
+    }
+    .faild__right img {
+        width: 353px !important;
+    }
+    .faild {
+        margin-top: 340px !important;
+        margin-bottom: 50px !important;
+    }
+    .btn__tr__faild {
+        padding: 20px 70px !important;
+    }
+    .plots-card {
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .swiper {
+        padding-bottom: 45px !important;
+    }
+    .question-main__text {
+        font-size: 13px !important;
+    }
+    .question-main {
+        padding: 16px 11px 16px 14px !important;
+        border-radius: 10px !important;
+        -webkit-border-radius: 10px !important;
+        -moz-border-radius: 10px !important;
+        -ms-border-radius: 10px !important;
+        -o-border-radius: 10px !important;
+    }
+    .question-main__img-1 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-1.question-main__img-1__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-2 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-2.question-main__img-2__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-3 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-3.question-main__img-3__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-4 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-4.question-main__img-4__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-5 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-5.question-main__img-5__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-6 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-6.question-main__img-6__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-7 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-7.question-main__img-7__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-8 {
+        background: url(../images/arrow-s.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-main__img-8.question-main__img-8__active {
+        background: url(../images/arrow-s-active.svg) no-repeat !important;
+        width: 18px !important;
+        height: 11px !important;
+    }
+    .question-hidden {
+        padding: 40px 11px 20px 14px !important;
+        font-size: 13px !important;
+        margin-top: -25px !important;
+        line-height: 20px !important;
+    }
+    .h2__base_b {
+        font-size: 24px !important;
+    }
+    .info-card__left__upper__left__upper__left {
+        display: block !important;
+    }
+    .info-cards__left__lower {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+    .form__btn {
+        margin-top: 25px !important;
+        padding: 20px 40px !important;
+    }
+    .mob-price__img {
+        top: -20px !important;
+        & img {
+            width: 220px;
+            height: auto;
+        }
+    }
+    .program__lower__container__upper {
+        font-size: 48px !important;
+    }
+    .h2__program__lower {
+        font-size: 16px !important;
+    }
+    .warpper__program {
+        margin-top: 40px !important;
+        padding: 105px 0 13px 0 !important;
+        border-radius: 20px !important;
+        -webkit-border-radius: 20px !important;
+        -moz-border-radius: 20px !important;
+        -ms-border-radius: 20px !important;
+        -o-border-radius: 20px !important;
+    }
+    .cb__img-hand img {
+        width: 230px;
+    }
+    .cb__img-hand {
+        display: none;
+    }
+    .cb__img-hand__mobile {
+        display: block !important;
+        top: -125px !important;
+    }
+    .swiper-pagination-bullet {
+        width: var(--swiper-pagination-bullet-width, var(--swiper-pagination-bullet-size, 8px)) !important;
+        height: var(--swiper-pagination-bullet-height, var(--swiper-pagination-bullet-size, 8px)) !important;
+    }
+    .reviews {
+        margin-top: 47px !important;
+    }
+    .container__reviews {
+        margin-top: 20px !important;
+    }
+    .cm__project-house__popup {
+        width: 100%;
+    }
+    .input__popup {
+        max-width: 95% !important;
+        padding: 16px 2px 16px 15px !important;
+        margin-bottom: 11px !important;
+        font-size: 12px !important;
+        border-radius: 20px !important;
+        -webkit-border-radius: 20px !important;
+        -moz-border-radius: 20px !important;
+        -ms-border-radius: 20px !important;
+        -o-border-radius: 20px !important;
+    }
+    .project-card__hit {
+        zoom: 60%;
+    }
+    .plots-card {
+        border-radius: 8px !important;
+        -webkit-border-radius: 8px !important;
+        -moz-border-radius: 8px !important;
+        -ms-border-radius: 8px !important;
+        -o-border-radius: 8px !important;
+    }
+    .card {
+        height: 420px !important;
+    }
+    .popup__thank-img {
+        & img {
+            width: 260px;
+            height: auto;
+        }
+    }
+    .content__mortgage-application__thank {
+        padding: 67px 48px 0px 48px !important;
+    }
+    .popup__thank-img {
+        bottom: 0 !important;
+    }
+    .popup__description__thank {
+        padding-bottom: 180px !important;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .real_card {
+        max-width: 300px !important;
+        padding: 10px 10px 21px 10px !important;
+    }
+    .real_card__img {
+        & img {
+            width: 100%;
+            height: auto;
+        }
+    }
+    .card {
+        height: 350px !important;
+    }
+    .real_card__name {
+        margin-bottom: 3px !important;
+        font-size: 13px !important;
+    }
+    .container__real_card__names {
+        margin-top: 10px !important;
+    }
+    .real_card__name__discription {
+        margin-bottom: 15px !important;
+        font-size: 13px !important;
+    }
+    .real_card__price {
+        font-size: 16px !important;
+    }
+    .hover__name {
+        font-size: 13px !important;
+    }
+    .hover__discrtiption {
+        font-size: 13px !important;
+        margin: 6px 0 23px 0 !important;
+    }
+    .hover__price {
+        margin-top: 6px !important;
+        margin-bottom: 23px !important;
+        font-size: 16px !important;
+    }
+    .hover__name__ul {
+        margin-bottom: 10px !important;
+    }
+    .real-card__li {
+        font-size: 13px !important;
+    }
+    .real-card__hover {
+        padding-bottom: 0px !important;
+    }
+    .real_card__img__m {
+        padding: 5px 9px 3px 11px !important;
+        font-size: 15px !important;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .h2__real {
+        font-size: 22px !important;
+    }
+}
+
+@media only screen and (max-width: 385px) {
+    .plots__img {
+        top: -270px !important;
+        left: 45px !important;
+    }
+    .form__btn {
+        margin-top: 8px !important;
+    }
+    .mortgage_text__upper {
+        font-size: 50.5111px !important;
+    }
+    .mortgage_text__lower {
+        margin-top: 4px !important;
+        font-size: 13px !important;
+    }
+    .mortgage {
+        padding: 175px 20px 20px 20px !important;
+    }
+    .mortgage_sides__right__text-2 {
+        font-size: 125px !important;
+        top: -135px !important;
+    }
+    .mortgage_sides__right__text__img img {
+        width: 125px !important;
+    }
+    .mortgage_sides__right__text__img {
+        bottom: -35px !important;
+        left: 133px !important;
+    }
+    .mortgage_sides__right__text-1 {
+        top: -130px !important;
+        font-size: 30px !important;
+        left: -7px !important;
+    }
+    .h2__base__mob {
+        max-width: 230px !important;
+    }
+}
+
+@media only screen and (max-width: 392px) {
+    .btn {
+        font-size: 14px !important;
+    }
+    .mob-price__img img {
+        width: 160px !important;
+    }
+}
